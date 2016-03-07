@@ -93,5 +93,6 @@
 
     <!-- Strings related to Notification preference -->
     <string name="pref_last_notification">last_notification</string>
-
+    <string name="banner_ad_unit_id">ca-app-pub-9225993600367994/1664133060</string>
+    <string name="Banner_Detalles">ca-app-pub-9225993600367994/2672874668</string>
 </resources>

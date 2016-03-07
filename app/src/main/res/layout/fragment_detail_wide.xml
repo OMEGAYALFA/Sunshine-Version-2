@@ -1,5 +1,6 @@
 <!-- Master layout. -->
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true">
@@ -32,6 +33,8 @@
                 android:layout_width="wrap_content"
                 android:textColor="@color/grey_700"
                 android:textSize="20sp" />
+
+
 
         </LinearLayout>
 
@@ -103,5 +106,9 @@
                 android:textColor="@color/grey_700"
                 android:textAppearance="?android:textAppearanceLarge"/>
         </LinearLayout>
+
+
+
+
     </LinearLayout>
 </ScrollView>
